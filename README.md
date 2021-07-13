@@ -9,9 +9,9 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=c-hgp)
 
-## AthlasIO
-I have a software development company with a friend. Feel free to check it out in the link below.
-<a href="https://athlas.io/" target="blank">Website: <img align="center" src="https://raw.githubusercontent.com/c-hgp/c-hgp/master/assets/athlas.png" alt="Medium" height="50" width="50" />
+## AthlasIO <img align="center" src="https://raw.githubusercontent.com/c-hgp/c-hgp/master/assets/athlas.png" alt="Medium" height="50" width="50" />
+I have a software development company with a friend. Feel free to check it out 
+<a href="https://athlas.io/" target="blank">here>
 
 ## Top Repos
 
