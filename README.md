@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="92" src="https://raw.githubusercontent.com/c-hgp/c-hgp/master/assets/mkdir.png" />
+  <img width="150" src="https://raw.githubusercontent.com/c-hgp/c-hgp/master/assets/mkdir.png" />
 </p>  
 <h2 align="center">Hi and welcome to my GitHub!</h2>
 
@@ -11,7 +11,7 @@
 
 ## AthlasIO
 I have a software development company with a friend. Feel free to check it out in the link below.
-<a href="https://athlas.io/" target="blank">Website: <img align="center" src="https://raw.githubusercontent.com/c-hgp/c-hgp/master/assets/athlas.png" alt="Medium" height="30" width="40" />
+<a href="https://athlas.io/" target="blank">Website: <img align="center" src="https://raw.githubusercontent.com/c-hgp/c-hgp/master/assets/athlas.png" alt="Medium" height="50" width="50" />
 
 ## Top Repos
 
