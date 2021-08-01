@@ -22,5 +22,5 @@ I have a software development company with a friend. Feel free to check it out
 
 ![](https://komarev.com/ghpvc/?username=c-hgp)
 
-(×_×) <\br> 
+(×_×) <br /> 
   - C
