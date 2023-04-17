@@ -13,3 +13,11 @@
   Co-owner of AthlasIO.  
   <a href="https://athlas.io/" target="blank">Check it out</a>
 </p>
+
+<h2 align="center"></h2>
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/Karoshi-Systems/.github/57ae8b0bccc38fe3425b99b0ecae2cf5093322f3/KaroshiLogoWhite.svg" alt="Medium" height="80" width="80" />
+  <br>
+  Co-owner of Karoshi Systems.  
+  <a href="https://karoshi-systems.github.io/" target="blank">Check it out</a>
+</p>
