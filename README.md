@@ -2,7 +2,7 @@
   <img width="150" src="https://raw.githubusercontent.com/c-hgp/c-hgp/master/assets/mkdir.png" />
 </p>  
 <br>
-<h3 align="center"><a href="https://prestor.dev/">🖥  Website</a>   ·   <a href="https://twitter.com/thechpcircus">💬  Personal Twitter</a>    ·   <a href="https://twitter.com/karoshitrades">📈  Trading Twitter</a></h3>
+<h3 align="center"><a href="https://prestor.dev/">🖥  Website</a>   ·   <a href="https://twitter.com/thechpcircus">💬  Personal Twitter</a>
 <br>
 <br>
 <br> 
